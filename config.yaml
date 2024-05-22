@@ -1,0 +1,12 @@
+path: /home/raspberry/Documents/yolov8_try2/data_yolo
+train: /home/raspberry/Documents/yolov8_try2/data_yolo/train
+val: /home/raspberry/Documents/yolov8_try2/data_yolo/val
+
+#classes
+names:
+  0: lingkaran_kecil
+  1: lingkaran_besar
+  2: persegi_kecil
+  3: persegi_besar
+  4: segitiga_kecil
+  5: segitiga_besar
